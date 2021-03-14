@@ -1,2 +1,3 @@
-# data-science-machine-learning-projects
-My data science and machine learning portfolio.
+# Data Science and Machine Learning Portfolio
+
+My data science and machine learning projects examples.
